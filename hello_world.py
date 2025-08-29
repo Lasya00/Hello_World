@@ -9,6 +9,6 @@ print()
 # print hello world
 print("Hello World")
 
-#This is second commit
-print("Hi, this is for my second commit")
+#This is second commit and also the third
+print("Hi, this is now the second and third commit.")
 

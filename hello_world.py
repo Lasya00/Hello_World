@@ -13,5 +13,5 @@ print("Hello World")
 print("Hi, this is now the second and third commit.")
 
 #fourth commit
-for i in range(1, 10):
+for i in range(1, 51):
     print(i)

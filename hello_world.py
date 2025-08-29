@@ -12,3 +12,6 @@ print("Hello World")
 #This is second commit and also the third
 print("Hi, this is now the second and third commit.")
 
+#fourth commit
+for i in range(1, 10):
+    print(i)
